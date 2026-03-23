@@ -5,12 +5,9 @@
 
 ## 👨‍💻 About Me
 * 🎓 **Education:** 단국대학교 경영공학과 졸업
-
 * 🔭 **Currently Learning:** Java, JavaScript, Vue, SQL
-* 
 * 📜 **Certifications:**
     * **ADsP (데이터분석 준전문가)**
-    * 
 * 🤝 **Contact & Channel:**
     * 📧 [Email](mailto:qetuo4751@naver.com) | 🐙 [GitHub](https://github.com/songeseudeo)
 
@@ -18,16 +15,16 @@
 
 ## 🛠 Skills & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FFB7B2?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-FFDAC1?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-B5EAD7?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-C7CEEA?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-E2F0CB?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-FFB7B2?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-C7CEEA?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-B5EAD7?style=flat-square&logo=vuedotjs&logoColor=white">
 </p>
 
 ---
