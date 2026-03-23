@@ -1,10 +1,13 @@
-# Hello, I'm ** (songeseudeo)** 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!+I'm+songeseudeo;Striving+for+better+code+every+day." alt="Typing SVG" />
+</p>
+
 > **Welcome! Striving for better code every day.** 🚀
 
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Currently Learning:** Java, JavaScript, Python, SQL을 깊이 있게 공부 중입니다.
+* 🔭 **Currently Learning:** Java, JavaScript, Python, C++, SQL을 깊이 있게 공부 중입니다.
 * 📜 **Certifications:**
     * **ADsP (데이터분석 준전문가)** 취득
 * 🤝 **Contact & Channel:**
@@ -31,7 +34,7 @@
 ## 📊 GitHub Stats & Top Languages
 <p align="center">
   <a href="https://github.com/songeseudeo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=songeseudeo&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="송세득's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=songeseudeo&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="송세득's GitHub Stats" />
   </a>
   <a href="https://github.com/songeseudeo">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songeseudeo&layout=compact&theme=vue-dark&hide_border=true" alt="송세득's Top Languages" />
@@ -39,7 +42,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <b>매일 조금씩, 더 나은 코드를 향해 나아갑니다.</b>
-</p>
