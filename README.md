@@ -4,9 +4,13 @@
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Currently Learning:** Java, JavaScript, Python, C++, SQL을 깊이 있게 공부 중입니다.
+* 🎓 **Education:** 단국대학교 경영공학과 졸업
+
+* 🔭 **Currently Learning:** Java, JavaScript, Vue, SQL
+* 
 * 📜 **Certifications:**
-    * **ADsP (데이터분석 준전문가)** 취득
+    * **ADsP (데이터분석 준전문가)**
+    * 
 * 🤝 **Contact & Channel:**
     * 📧 [Email](mailto:qetuo4751@naver.com) | 🐙 [GitHub](https://github.com/songeseudeo)
 
