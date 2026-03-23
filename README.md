@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!+I'm+songeseudeo;Striving+for+better+code+every+day." alt="Typing SVG" />
 </p>
-
-> **Hello, I'm **songeseudeo Striving for better code every day.** 🚀
-
 ---
 
 ## 👨‍💻 About Me
