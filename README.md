@@ -1,15 +1,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello!+I'm+songeseudeo;Striving+for+better+code+every+day." alt="Typing SVG" />
 </p>
----
 
 ## 👨‍💻 About Me
 * 🎓 **Education:** 단국대학교 경영공학과 졸업
-* 🔭 **Currently Learning:** Java, JavaScript, Vue, SQL
+* 🌱 **Currently Learning:** Java, JavaScript, Vue, SQL
 * 📜 **Certifications:**
     * **ADsP (데이터분석 준전문가)**
 * 🤝 **Contact & Channel:**
-    * 📧 [Email](mailto:qetuo4751@naver.com) | 🐙 [GitHub](https://github.com/songeseudeo)
+    * 💬 [Email](mailto:qetuo4751@naver.com)
+    * 🐈‍⬛ [GitHub](https://github.com/songeseudeo)
 
 ---
 
