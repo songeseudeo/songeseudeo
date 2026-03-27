@@ -35,7 +35,7 @@
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=songeseudeo&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true&rank_icon=github" alt="송에스더's GitHub Stats" />
   </a>
   <a href="https://github.com/songeseudeo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songeseudeo&layout=compact&theme=vue-dark&hide_border=true" alt="송에스더's Top Languages" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=songeseudeo&layout=compact&theme=vue-dark&hide_border=true&langs_count=8" alt="송에스더's Top Languages" />
   </a>
 </p>
 
